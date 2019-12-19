@@ -1,6 +1,6 @@
 h1{
 	text-align: center;
-	background-color: #fba4a4;
+	background-color:#00acff;
 	color: black;
 	font-style: italic;
 	font-variant: small-caps;
@@ -8,7 +8,7 @@ h1{
 }
 body{
 	margin: 4px 4px 4px 4px;
-	background-color:#afffc0;
+	background-color:#ffc7c7;
 }
 div{
 	margin: 5px;
@@ -48,11 +48,11 @@ div a:hover{
 nav a{
 	text-align: left;
 	display: inline-block;
-	border: 2px solid #ff3434;
+	border: 2px solid #6f34ff;
 	padding: 3px;
 	margin: 2px;
 	width:99%;
-	background-color: #34ffb4;
+	background-color: #d2eaf6;
 	color:black;
 }
 nav a:hover{
@@ -61,6 +61,7 @@ nav a:hover{
 	margin:2px;
 	background-color: #ff6868;
 	color: white;
+	border: 2px solid black;
 }
 nav a:focus{
 	padding:3px;
