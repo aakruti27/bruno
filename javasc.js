@@ -13,8 +13,8 @@ function chgtxt()
 {
 	var del1= document.getElementById("d1");
 	var del2= document.getElementById("d2");
-	del1.innerHTML="TEEEEXT 1";
-	del2.innerHTML="TEEEEXT 2";
+	del1.innerHTML="I love you to infinity and beyond";
+	del2.innerHTML="🥺🥺 ab change dikha?";
 }
 function chclr()
 {
