@@ -16,3 +16,25 @@ function chgtxt()
 	del1.innerHTML="TEEEEXT 1";
 	del2.innerHTML="TEEEEXT 2";
 }
+function chclr()
+{
+	var e1= document.getElementById("k1");
+	var e2= document.getElementById("k2");
+	e1.className="yellowback";
+	e2.className="blueback";
+}
+function makepur()
+{
+	var v= document.getElementById("b");
+	v.className="colpur";
+}
+function makepe()
+{
+	var v=document.getElementById("b");
+	v.className="colpea";
+}
+function makewh()
+{
+	var v=document.getElementById("b");
+	v.className="colwhi";
+}
