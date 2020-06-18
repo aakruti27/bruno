@@ -1,12 +1,12 @@
 function dochange()
 {
-	k=confirm("aakruti loves you");
+	k=confirm("uhm hi i guess");
 	if (k==true) {
-		alert("ok means you forgave me hehe thenks")
+		alert("ok hehe thenks")
 	}
 	else
 	{
-		alert("you broke my heart :(")
+		alert("why cancel :( ")
 	}
 }
 function chgtxt()
